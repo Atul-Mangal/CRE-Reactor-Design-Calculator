@@ -5,7 +5,7 @@ the three cases that dominate an introductory chemical reaction engineering cour
 isothermal operation, pressure drop in a packed bed, and adiabatic operation with
 equilibrium limitation.
 
-**Live:** https://cre-calculator.vercel.app
+**Live:** https://cre-reactor-calculator.vercel.app
 
 ---
 
