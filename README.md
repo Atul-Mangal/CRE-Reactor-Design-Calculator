@@ -79,8 +79,8 @@ adiabatic solvers run client-side.
 ## Run locally
 
 ```bash
-git clone https://github.com/<Atul-Mangal>/cre-calculator.git
-cd cre-calculator
+git clone https://github.com/Atul-Mangal/CRE-Reactor-Design-Calculator.git
+cd CRE-Reactor-Design-Calculator
 npm install
 npm run dev
 ```
